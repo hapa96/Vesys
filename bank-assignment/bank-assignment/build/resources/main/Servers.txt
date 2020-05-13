@@ -1,2 +1,3 @@
 bank.local.Driver
-bank.Socket.SocketClient localhost 1234
+bank.socket.SocketClient localhost 1234
+bank.rest.RestClient localhost 9998

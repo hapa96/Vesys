@@ -1,4 +1,4 @@
-package bank.Socket;
+package bank.socket;
 
 import bank.Account;
 import bank.Bank;
